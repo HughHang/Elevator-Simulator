@@ -11,6 +11,14 @@ An elevator simulator that can move passengers around to different floors with a
 - Adjustment to number of floors and elevators can be done in the defs.h file
 
 ---
-###Setup and Running
+### Documentation
+- UML Diagram
+- Use Case
+- Use Case Diagram
+- State Diagram
+- Traceability Matrix
+ 
+---
+### Setup and Running
 - Ran in QTCreator
-1. Drag and drop file into QTCreator and run
+- Drag and drop file into QTCreator and run
