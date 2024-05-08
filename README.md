@@ -22,3 +22,7 @@ An elevator simulator that can move passengers around to different floors with a
 ### Setup and Running
 - Ran in QTCreator
 - Drag and drop file into QTCreator and run
+
+--- 
+### Video Demo 
+- Available in files
